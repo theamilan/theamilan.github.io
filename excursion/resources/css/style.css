@@ -1,11 +1,15 @@
 body {
   background-color: #000000;
   color: #ffffff;
+  font-family: verdana;
 }
 
 h1 {
-  font-family: Veradana;
   font-weight: normal;
   font-size: 50px;
   text-align: center;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
 }
