@@ -32,3 +32,16 @@ h3 {
   font-weight: bold;
   color: white;
 }
+a {
+  color: white;
+  font-size: 18px;
+}
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
+mark {
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
+}
