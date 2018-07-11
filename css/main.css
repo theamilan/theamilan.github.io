@@ -2,11 +2,15 @@ body {
   font-family: helvetica, sans-serif;
 }
 .about {
-  width: 350px;
+  max-width: 500px;
+  min-width: 300px;
   text-align: center;
   margin: 0 auto;
-  border: solid 1px;
-  padding: 10px;
+  padding:  0px 10px 10px 10px;
+}
+.blurb {
+  text-align: left;
+  padding: 20px 10px;
 }
 .whatcanido {
   text-align: center;
@@ -58,4 +62,16 @@ body {
 .navbar a:hover {
   background-color: #DA70D6;
   color: #000000;
+}
+.profilepic {
+  height: 250px;
+  float: left;
+  border-radius: 100%;
+  border: solid 1px;
+  margin: 0px 10px 0px 0px
+}
+.about h2 {
+  font-size: 40px;
+  color: #551A8B;
+  text-align: center;
 }
