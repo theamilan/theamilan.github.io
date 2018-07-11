@@ -1,0 +1,61 @@
+body {
+  font-family: helvetica, sans-serif;
+}
+.about {
+  width: 350px;
+  text-align: center;
+  margin: 0 auto;
+  border: solid 1px;
+  padding: 10px;
+}
+.whatcanido {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+.ican {
+  border: 1px solid #466995;
+  display: inline-block;
+  margin: 10px 20px;
+  width: 250px;
+  vertical-align: top;
+  padding: 0px 10px 40px 10px;
+  text-align: center;
+  height: 225px;
+  position: relative;
+  background-color: #D3D3D3;
+}
+.ican li {
+  text-align: left;
+}
+.button {
+  background-color: #DA70D6;
+  border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  vertical-align: bottom;
+  position: absolute;
+  bottom: 15px;
+  right: 63px;
+  }
+.navbar {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  background: #000000;
+}
+.navbar a {
+  padding: 10px 20px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.navbar a:hover {
+  background-color: #DA70D6;
+  color: #000000;
+}
